@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE mythuitheme SYSTEM "http://www.mythtv.org/schema/mythuitheme.dtd">
-<mythuitheme>
+<mythuitheme xmlns="http://www.mythtv.org/schema/mythuitheme.xsd">
     
     <window name="program_info">
         <area>0,480,1280,240</area>

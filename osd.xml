@@ -28,7 +28,7 @@
             <template>(%STARTTIME% - %ENDTIME%)  %LENMINS%</template>
         </textarea>
         
-        <imagetype name="channelicon">
+        <imagetype name="iconpath">
             <area>46,40,120,90</area>
         </imagetype>
         
@@ -87,7 +87,7 @@
             <template>(%STARTTIME% - %ENDTIME%) %LENMINS%</template>
         </textarea>
         
-        <imagetype name="channelicon">
+        <imagetype name="iconpath">
             <area>46,40,120,90</area>
         </imagetype>
         

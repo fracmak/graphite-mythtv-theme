@@ -53,7 +53,7 @@
             <value>(%STARTTIME% - %ENDTIME%)  %LENMINS%</value>
         </textarea> 
 
-        <image name="channelicon">
+        <image name="iconpath">
             <position>46,520</position>
             <staticsize>120,90</staticsize>
         </image>
@@ -118,7 +118,7 @@
             <value>(%STARTTIME% - %ENDTIME%)  %LENMINS%</value>
         </textarea> 
 
-        <image name="channelicon">
+        <image name="iconpath">
             <position>46,520</position>
             <staticsize>120,90</staticsize>
         </image>

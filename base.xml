@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<mythuitheme>
+<mythuitheme xmlns="http://www.mythtv.org/schema/mythuitheme.xsd">
     
     <!-- Base Font Definitions -->
     <fontdef name="basesmall" face="DejaVu Sans">

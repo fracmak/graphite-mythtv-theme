@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<mythuitheme xmlns="http://www.mythtv.org/schema/mythuitheme.xsd">
-    
+<!DOCTYPE mythuitheme SYSTEM "http://www.mythtv.org/schema/mythuitheme.dtd">
+<mythuitheme>
+
     <!-- Base Font Definitions -->
     <fontdef name="basesmall" face="DejaVu Sans">
 <!--The following is an acceptable replacement font, freely downloadable

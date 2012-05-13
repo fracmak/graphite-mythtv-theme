@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<mythuitheme xmlns="http://www.mythtv.org/schema/mythuitheme.xsd">
+<!DOCTYPE mythuitheme SYSTEM "http://www.mythtv.org/schema/mythuitheme.dtd">
+<mythuitheme>
     
     <window name="watchrecordings">
         <area>-1,-1,1280,720</area>
